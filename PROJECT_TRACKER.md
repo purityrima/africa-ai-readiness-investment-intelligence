@@ -39,7 +39,8 @@ GitHub links and decisions
 Evaluation + profiles | Completed | Notebook 03: Model evaluation and selection
 Maps + infrastructure + sustainability | Completed | Notebook 04: Geographical analysis and cluster interpretation
 Investment screening + handover | In progress | Screening archetypes completed; GitHub integration and final handover pending
-
+Geographical analysis and interpretation | PR #7 | Merged into main
+https://github.com/purityrima/africa-ai-readiness-investment-intelligence/pull/7
 
 Blockers / decisions requiring attention
 - Decision: K-Means (k=3) selected for primary exploratory
